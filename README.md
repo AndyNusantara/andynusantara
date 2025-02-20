@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andy Wijaya Nusantara</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **react,etc**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-website-andynusantara.vercel.app/](https://portfolio-website-andynusantara.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://andy-dev.vercel.app/](https://andy-dev.vercel.app/)
 
 - 📫 How to reach me **andynusantara.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/andy-nusantara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andy-nusantara" height="30" width="40" /></a>
-<a href="https://instagram.com/andynusantaraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andynusantaraa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
