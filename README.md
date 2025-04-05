@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy Wijaya Nusantara</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A web developer based in Indonesia</h3>
 
 - 👨‍💻 All of my projects are available at [https://andy-dev.vercel.app/](https://andy-dev.vercel.app/)
 
